@@ -1,10 +1,10 @@
 {
-  "name": "ios_calculater_clone",
+  "name": "ios-calculater-clone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Thatguywill12/ios-calculator-clone/issues"
   },
-  "homepage": "https://thatguywill12.github.io/ios-calculator-clone",
+  "homepage": "https://Thatguywill12.github.io/ios-calculator-clone",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
